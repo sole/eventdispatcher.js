@@ -88,3 +88,9 @@ EventDispatcher.prototype = {
 	}
 
 };
+
+try {
+module.exports = EventDispatcher;
+} catch( e ) {
+	// muettttte!! *_*
+}
