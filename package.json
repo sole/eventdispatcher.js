@@ -6,7 +6,7 @@
   "homepage": "https://github.com/sole/eventdispatcher.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sole/eventdispatcher.git"
+    "url": "git@github.com:sole/eventdispatcher.js.git"
   },
   "bugs": {
     "url": "https://github.com/sole/eventdispatcher.js/issues"
